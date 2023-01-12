@@ -1,2 +1,0 @@
-# pawel.site
-Personal portfolio
